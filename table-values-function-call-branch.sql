@@ -1,0 +1,1 @@
+select * from  Assests(600000);
